@@ -1,0 +1,18 @@
+.transactionHistory {
+  background-color: #c6b2e5;
+  width: 990px;
+}
+
+.stroke {
+  text-align: center;
+  margin: 0;
+  width: 330px;
+  border: 1px solid #efd2ed;
+  font-size: 30px;
+}
+
+.title {
+  padding: 10px;
+  background-color: #8d8bd3;
+  color: #2d2c46;
+}
